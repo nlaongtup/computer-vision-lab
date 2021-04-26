@@ -1,1 +1,1 @@
-# computer_vision_lab
+# computer-vision-lab
